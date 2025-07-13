@@ -1,0 +1,2 @@
+# Minnkxant-store
+Own apk
